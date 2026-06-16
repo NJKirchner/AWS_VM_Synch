@@ -35,10 +35,10 @@
 			<Item Name="Destroy APP UI Display Events.vi" Type="VI" URL="../Application Components/UI/Destroy APP UI Display Events.vi"/>
 			<Item Name="_UI APP Event References.ctl" Type="VI" URL="../Application Components/UI/_UI APP Event References.ctl"/>
 		</Item>
-		<Item Name="{TMPL} Station Configuration.lvclass" Type="LVClass" URL="../Application Components/Configuration/{TMPL} Station Configuration.lvclass"/>
-		<Item Name="{TMPL} Trigger API.lvlib" Type="Library" URL="../Application Components/Trigger API/{TMPL} Trigger API.lvlib"/>
+		<Item Name="Synchronize AWS S3 Content Station Configuration.lvclass" Type="LVClass" URL="../Application Components/Configuration/Synchronize AWS S3 Content Station Configuration.lvclass"/>
+		<Item Name="Synchronize AWS S3 Content Trigger API.lvlib" Type="Library" URL="../Application Components/Trigger API/Synchronize AWS S3 Content Trigger API.lvlib"/>
 		<Item Name="Station Configuration.ini" Type="Document" URL="../System Configuration/Station Configuration.ini"/>
 		<Item Name="System Errors.txt" Type="Document" URL="../System Level Errors/System Errors.txt"/>
 	</Item>
-	<Item Name="{TMPL} TLB`.lvclass" Type="LVClass" URL="../{TMPL} TLB`.lvclass"/>
+	<Item Name="Synchronize AWS S3 Content TLB`.lvclass" Type="LVClass" URL="../Synchronize AWS S3 Content TLB`.lvclass"/>
 </Library>
